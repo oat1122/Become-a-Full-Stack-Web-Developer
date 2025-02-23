@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+
+h1{
+    text-transform: uppercase;
+    font-size: 3rem
+}
+
+body{
+    background-color: #000000;
+}
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+    width: 100%;
+    border: 10px solid white;
+}
